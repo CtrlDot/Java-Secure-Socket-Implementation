@@ -4,4 +4,9 @@
   <artifactId>secureSocket</artifactId>
   <version>0.0.1</version>
   <name>Java Secure Socket</name>
+  <packaging>pom</packaging>
+  <modules>
+  	<module>Server</module>
+  	<module>Client</module>
+  </modules>
 </project>
