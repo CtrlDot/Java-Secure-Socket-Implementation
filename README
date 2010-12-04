@@ -1,0 +1,12 @@
+Simple Secure Socket implementation in Java.
+
+to build
+
+mvn clean compile package (in parent directory)
+
+To run server:
+java -cp Server-0.0.1.jar com.ctrldot.secureSocket.Server.Server
+
+To run client:
+java -cp Client-0.0.1.jar com.ctrldot.secureSocket.Client.Client
+
